@@ -1,0 +1,14 @@
+{
+  "name": "MetaTether",
+  "symbol": "MTT",
+  "type": "BEP20",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xcd4a736a7e31c53be041ac885e27dcce8b76686d",
+  "links": [
+    {
+      "name": "telegram",
+      "url": "https://t.me/MetaTetherofficial"
+    }
+  ]
+}
